@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "Very interesting programming",
+      "id": 1
+    },
+    {
+      "title": "Python Programming",
+      "description": "Beginners guide for programming in python ",
+      "userId": "107304330204067315488",
+      "id": 2
+    }
+  ]
+}
